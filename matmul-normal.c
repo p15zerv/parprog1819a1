@@ -40,7 +40,7 @@ int main()
                 pb++;
             }
             *pc = sum;
-            pc ++;
+            pc++;
         }
     }
 
